@@ -1,0 +1,28 @@
+Job Listing Detail
+
+About Atos
+Atos is a global leader in digital transformation with over 110,000 employees in 73 countries and annual revenue of over € 11 billion. European number one in Cloud, Cybersecurity and High-Performance Computing, the Group provides end-to-end Orchestrated Hybrid Cloud, Big Data, Business Applications and Digital Workplace solutions. The group is the Worldwide Information Technology Partner for the Olympic & Paralympic Games and operates under the brands Atos, Atos Syntel, and Unify. Atos is a SE (Societas Europaea), listed on the CAC40 Paris stock index.
+The purpose of Atos is to help design the future of the information technology space. Its expertise and services support the development of knowledge, education as well as multicultural and pluralistic approaches to research that contribute to scientific and technological excellence. Across the world, the group enables its customers, employees and collaborators, and members of societies at large to live, work and develop sustainably and confidently in the information technology space.
+Cloud Delivery Manager
+ 
+•              Manage day-to-day Cloud Operations Delivery and tasks 
+•              Act as a technical Manager for a team of Cloud Engineers being the primary point in driving standard processes, troubleshooting methodologies and setting the tone for excellence. Acts as liason between Service delivery team and operations
+•              Responsible for the development of administrative processes, Cloud Engineering tool procurement, and ensuring compliance with defined processes.
+•              Assist  teams with technical issues in all phases of a projects life cycle. This includes providing technical analysis / design services to the project through the delivery of recommended design.
+•              Train and provide guidance to other members of the team.
+•              Collaborates with development teams to resolve Cloud Infrastructure design.
+•              Coordinate tasks/schedules of external consultants and internal staff 
+•              Monitors/manages resources to assure system availability and capacity for growth.
+•              Create and manage platform and brokerage service which is used to provision and manage workloads across our hybrid multi-cloud environments that are highly available
+•              Provide a deep technological understanding of cloud infrastructures, capabilities and security models, and engineer cloud-hosted solutions and integrations
+•              Responsible for defining and implementing cloud systems support process and procedures in a multi-cloud environment
+•              Understand and identify the cloud-native model that can be operationalized with an initial small team and scaled up based on demand
+•              Create and document reusable components necessary for efficient and scalable application migration to public cloud
+•              Provide technical consultation to application teams migrating to public cloud-based on a joint assessment of existing application technology and deployment model
+•              Builds new abstractions and service layers on top of the native cloud functionality to enhance security, enforce standardization and enable engineer productivity
+•              Provides subject matter expertise to other groups on cloud native capabilities, in house abstractions and tools
+•              Establishes and maintains Key Performance Indicators (KPI) for the overall health of the service and build tools to exercise and evaluate if these KPIs are being met
+•              Works cross-functionally with other teams to surface common pain points, architect solutions, establish conventions, and evangelize application development and operations best practices
+•              Works within the team on priorities and help specifying the deliverables around governance software, best practices
+•              Performs other duties as assigned by senior leadership.
+Here at Atos, we want all of our employees to feel valued, appreciated, and free to be who they are at work. Our employee lifecycle processes are designed to prevent discrimination against our people regardless of gender identity or expression, sexual orientation, religion, ethnicity, age, neurodiversity, disability status, citizenship, or any other aspect which makes them unique. Across the globe, we have created a variety of programs to embed our Atos culture of inclusivity, and work hard to ensure that all of our employees have an equal opportunity to contribute and feel that they are exactly where they belong.
